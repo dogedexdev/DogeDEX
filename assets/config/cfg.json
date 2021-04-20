@@ -45,7 +45,7 @@
     "AUD": "$A",
     "HUF": "Ft",
     "SEK": "kr",
-    "KMD": "KMD",
+    "DOGE": "Ð",
     "BTC": "₿",
     "BTC_ALT": "฿"
   },
@@ -87,6 +87,6 @@
   "possible_currencies": [
     "USD",
     "BTC",
-    "KMD"
+    "DOGE"
   ]
 }

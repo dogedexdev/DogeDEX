@@ -2652,83 +2652,83 @@
 <context>
     <name>SettingModal</name>
     <message>
-        <location filename="../../qml/Settings/SettingModal.qml" line="106"/>
-        <location filename="../../qml/Settings/SettingModal.qml" line="210"/>
+        <location filename="../../qml/Settings/SettingModal.qml" line="105"/>
+        <location filename="../../qml/Settings/SettingModal.qml" line="209"/>
         <source>Language</source>
         <translation type="unfinished">Langue</translation>
     </message>
     <message>
-        <location filename="../../qml/Settings/SettingModal.qml" line="106"/>
+        <location filename="../../qml/Settings/SettingModal.qml" line="105"/>
         <source>User Interface</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../qml/Settings/SettingModal.qml" line="106"/>
+        <location filename="../../qml/Settings/SettingModal.qml" line="105"/>
         <source>Security</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../qml/Settings/SettingModal.qml" line="106"/>
+        <location filename="../../qml/Settings/SettingModal.qml" line="105"/>
         <source>About</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../qml/Settings/SettingModal.qml" line="106"/>
+        <location filename="../../qml/Settings/SettingModal.qml" line="105"/>
         <source>General</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../qml/Settings/SettingModal.qml" line="106"/>
+        <location filename="../../qml/Settings/SettingModal.qml" line="105"/>
         <source>Version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../qml/Settings/SettingModal.qml" line="151"/>
+        <location filename="../../qml/Settings/SettingModal.qml" line="150"/>
         <source>Enable Desktop Notifications</source>
         <translation type="unfinished">Activer les notifications</translation>
     </message>
     <message>
-        <location filename="../../qml/Settings/SettingModal.qml" line="167"/>
+        <location filename="../../qml/Settings/SettingModal.qml" line="166"/>
         <source>Logs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../qml/Settings/SettingModal.qml" line="170"/>
+        <location filename="../../qml/Settings/SettingModal.qml" line="169"/>
         <source>Open Folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../qml/Settings/SettingModal.qml" line="184"/>
+        <location filename="../../qml/Settings/SettingModal.qml" line="183"/>
         <source>Reset assets configuration</source>
         <translation type="unfinished">Réinitialiser la configuration d&apos;assets</translation>
     </message>
     <message>
-        <location filename="../../qml/Settings/SettingModal.qml" line="187"/>
+        <location filename="../../qml/Settings/SettingModal.qml" line="186"/>
         <source>Reset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../qml/Settings/SettingModal.qml" line="236"/>
+        <location filename="../../qml/Settings/SettingModal.qml" line="235"/>
         <source>Use QtTextRendering Or NativeTextRendering</source>
         <translation type="unfinished">Utilisez QtTextRendering ou NativeTextRendering</translation>
     </message>
     <message>
-        <location filename="../../qml/Settings/SettingModal.qml" line="267"/>
+        <location filename="../../qml/Settings/SettingModal.qml" line="266"/>
         <source>Theme</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../qml/Settings/SettingModal.qml" line="415"/>
+        <location filename="../../qml/Settings/SettingModal.qml" line="414"/>
         <source>Application version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../qml/Settings/SettingModal.qml" line="429"/>
+        <location filename="../../qml/Settings/SettingModal.qml" line="428"/>
         <source>MM2 version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../qml/Settings/SettingModal.qml" line="443"/>
+        <location filename="../../qml/Settings/SettingModal.qml" line="442"/>
         <source>Qt version</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2748,38 +2748,38 @@
         <translation></translation>
     </message>
     <message>
-        <location filename="../../qml/Settings/SettingModal.qml" line="295"/>
+        <location filename="../../qml/Settings/SettingModal.qml" line="294"/>
         <source>Apply Theme</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../qml/Settings/SettingModal.qml" line="333"/>
+        <location filename="../../qml/Settings/SettingModal.qml" line="332"/>
         <source>View seed and private keys</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../qml/Settings/SettingModal.qml" line="336"/>
-        <location filename="../../qml/Settings/SettingModal.qml" line="396"/>
+        <location filename="../../qml/Settings/SettingModal.qml" line="335"/>
+        <location filename="../../qml/Settings/SettingModal.qml" line="395"/>
         <source>Show</source>
         <translation type="unfinished">Montrer</translation>
     </message>
     <message>
-        <location filename="../../qml/Settings/SettingModal.qml" line="349"/>
+        <location filename="../../qml/Settings/SettingModal.qml" line="348"/>
         <source>Setup Camouflage Password</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../qml/Settings/SettingModal.qml" line="352"/>
+        <location filename="../../qml/Settings/SettingModal.qml" line="351"/>
         <source>Open</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../qml/Settings/SettingModal.qml" line="370"/>
+        <location filename="../../qml/Settings/SettingModal.qml" line="369"/>
         <source>Delete Wallet</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../qml/Settings/SettingModal.qml" line="393"/>
+        <location filename="../../qml/Settings/SettingModal.qml" line="392"/>
         <source>Disclaimer and ToS</source>
         <translation type="unfinished">Clause de non-responsabilité et conditions d&apos;utilisation</translation>
     </message>

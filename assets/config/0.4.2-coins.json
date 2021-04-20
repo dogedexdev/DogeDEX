@@ -925,7 +925,7 @@
       "https://dogechain.info/"
     ],
     "type": "UTXO",
-    "active": false,
+    "active": true,
     "currently_enabled": false
   },
   "DOT-BEP20": {
@@ -1761,7 +1761,7 @@
     "explorer_url": [
       "https://kmdexplorer.io/"
     ],
-    "active": true,
+    "active": false,
     "currently_enabled": false
   },
   "KMD-BEP20": {
