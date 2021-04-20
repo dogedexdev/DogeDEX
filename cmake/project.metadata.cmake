@@ -1,15 +1,24 @@
 # Default project values
-set(DEX_PROJECT_NAME "atomicdex-desktop")
-set(DEX_DISPLAY_NAME "AtomicDEX Desktop")
-set(DEX_COMPANY "KomodoPlatform")
-set(DEX_WEBSITE "https://atomicdex.io/")
+set(DEX_PROJECT_NAME "DogeDEX")
+set(DEX_DISPLAY_NAME "DogeDEX")
+set(DEX_COMPANY "DogeDEX")
+set(DEX_WEBSITE "https://dogedex.xyz/")
 set(DEX_SUPPORT_PAGE "https://support.komodoplatform.com/support/home")
-set(DEX_DISCORD "https://komodoplatform.com/discord")
-set(DEX_TWITTER "https://twitter.com/AtomicDEX")
+set(DEX_DISCORD "")
+set(DEX_TWITTER "")
 #set(DEX_COMMON_DATA_FOLDER "atomic_qt")
-set(DEX_PRIMARY_COIN "KMD") ## Main coin of the DEX, will enable it by default and will be the default left ticker for trading
-set(DEX_SECOND_PRIMARY_COIN "BTC")  ## Second main coin of the DEX, will enable it by default and will be the default right ticker for trading
-option(DISABLE_GEOBLOCKING "Enable to disable geoblocking (for dev purpose)" OFF)
+set(DEX_PRIMARY_COIN "BTC") ## Main coin of the DEX, will enable it by default and will be the default left ticker for trading
+set(DEX_SECOND_PRIMARY_COIN "DOGE")  ## Second main coin of the DEX, will enable it by default and will be the default right ticker for trading
+option(DISABLE_GEOBLOCKING "Enable to disable geoblocking (for dev purpose)" ON)
+set(DEX_REPOSITORY_OWNER "KomodoPlatform")
+set(DEX_REPOSITORY_NAME "atomicDEX-Desktop")
+set(DEX_CHECKSUM_API_URL "https://komodo.live/static/checksum.json")
+if (APPLE)
+    set(DEX_APPDATA_FOLDER "DogeDEX")
+else ()
+    set(DEX_APPDATA_FOLDER "DogeDEX")
+endif ()
+message(STATUS "APPDATA folder is ${DEX_APPDATA_FOLDER}")
 
 if (UNIX AND NOT APPLE)
     set(DEX_LINUX_APP_ID "dex.desktop")
